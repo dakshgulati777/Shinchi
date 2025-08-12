@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Shinchi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFB800</item>
+        <item name="colorPrimaryVariant">#FFA000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.Shinchi" parent="Base.Theme.Shinchi" />
+</resources>

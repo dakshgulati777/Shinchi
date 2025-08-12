@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Shinchi</string>
+    <string name="Register">Register Now</string>
+    <string name="Sign">Sign In</string>
+    <string name="Terms_And_Condition">
+    \nWelcome to Shinchi!\n\nThese Terms and Conditions govern your use of our mobile application and all services provided through it. By downloading, accessing, or using Shinchi, you agree to be bound by these Terms and our Privacy Policy. If you disagree, please discontinue use immediately.\n
+\n1. About Shinchi:\n
+Shinchi is a pet care platform offering:
+Pet Grooming Services
+Pet Products (food, medicines, toys, grooming essentials)
+Pet Stay/Boarding Services
+Our mission is to provide trusted, quality care for pets, combining convenience and safety for pet parents.\n\n
+2. Eligibility:\n
+You must be 18 years or older to register and use Shinchi.
+By using the App, you confirm that the details provided are accurate, complete, and up-to-date.
+Accounts created with false information may be suspended or terminated without notice.\n\n
+3. Account Registration and Security:\n
+To use certain features, you must create an account.
+You are responsible for maintaining the confidentiality of your account credentials.
+You agree to notify us immediately if you suspect unauthorized use of your account.
+We reserve the right to refuse registration or terminate accounts at our discretion.\n\n
+4. Bookings and Payments:\n
+All service bookings are subject to availability.
+Prices for services and products are displayed in the App and may change without notice.
+Payments must be made through our secure payment gateway.
+You authorize Shinchi to charge the applicable amount for your bookings/purchases.
+Cancellations and refunds are handled under our Cancellation and Refund Policy provided in the App.\n\n
+5. User Responsibilities:\n
+When using Shinchi, you agree to:\n
+Use the App and Services only for lawful purposes.
+Provide truthful information for bookings and product purchases.
+Ensure your pet is healthy, vaccinated, and fit for the requested service.
+Not upload harmful, offensive, or misleading content.
+Follow all grooming and boarding requirements mentioned in the App.\n\n
+6. Service Conditions and Limitations:\n
+While we take all reasonable care, Shinchi is not liable for injury, illness, allergic reactions, or loss of pets caused by pre-existing health issues, unforeseen incidents, or negligence outside our control.
+Pet owners must disclose relevant health, temperament, and behavioral information before availing services.
+Boarding services may require health certificates or vaccination records for acceptance.\n\n
+7. Intellectual Property Rights:\n
+All logos, designs, trademarks, and content in the App are the exclusive property of Shinchi.
+You may not copy, modify, reproduce, or distribute our content without written consent.\n\n
+8. Limitation of Liability:\n
+To the fullest extent permitted by law:\n
+Shinchi shall not be liable for indirect, incidental, or consequential damages arising from the use of the App or Services.
+We do not guarantee uninterrupted or error-free operation of the App.\n\n
+9. Privacy and Data Protection:\n
+Our Privacy Policy also governs your use of Shinchi.
+We collect and process personal data in compliance with applicable data protection laws.\n\n
+10. Termination of Use:\n
+We may suspend or terminate your account if you:\n
+Violate these Terms.
+Misuse the App or engage in fraudulent activity.
+Fail to meet service requirements.\n\n
+11. Governing Law and Jurisdiction:\n
+These Terms shall be governed by and construed under the laws of India. Any disputes will be resolved exclusively in the courts of New Delhi, Delhi.\n\n
+12. Changes to Terms:\n
+We reserve the right to update or modify these Terms at any time. Continued use of the App after such changes constitutes acceptance of the revised Terms.\n\n
+13. Contact Information:\n
+For questions about these Terms, please contact:\n
+📧 support@shinchi.in\n
+        📞 +91 98765 XXXXX\n\n</string>
+
+    <string name="Service">Our Services</string>
+</resources>
